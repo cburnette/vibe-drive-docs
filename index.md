@@ -36,4 +36,4 @@ If this policy changes, the updated version will be posted here with a new date.
                                                                                                                                                                                                
 ## Contact                                                                                                                                                                                     
                                                                                                                                                                                                
-Questions? Open an issue on the project repository.
+Questions? Contact chadburnette@me.com
